@@ -12,9 +12,9 @@ const append = (message, postition)=>{
     msgElement.classList.add('message');
     msgElement.classList.add(postition);
     messageContainer.append(msgElement);
-    // if(postition == 'left'){
-    //     audio.play();
-    // }
+    if(postition == 'left'){
+        audio.play();
+    }
 }
 
 form.addEventListener('submit', (e) => {
