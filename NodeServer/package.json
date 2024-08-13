@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node NodeServer/app.js"
+    "start": "node NodeServer/index.js"
   },
   "keywords": [],
   "author": " Sinchana Chatterjee",
