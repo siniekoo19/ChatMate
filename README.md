@@ -1,6 +1,6 @@
-# ChatMate
+# ChatMate📱
 
-ChatMate is a real-time chat application built with Node.js, Socket.io, HTML, CSS, and JavaScript. It allows users to join a chat room, communicate with others, and receive notifications when new users join the conversation. 
+ChatMate is a real-time chat application built with HTML, CSS, JavaScript, Node.js, and Socket.io. It allows users to join a chat room, communicate with others, and receive notifications when new users join the conversation or when a user sends a message.
 
 ## Features
 
