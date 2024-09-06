@@ -26,6 +26,8 @@ ChatMate is a real-time chat application built with HTML, CSS, JavaScript, Node.
 
 3. Run the HTML file `index.html` & run the `index.js` using:
    ```nodemon index.js```
+
+   
 Now, using your browser, experience ChatMate! 😊
 
 
