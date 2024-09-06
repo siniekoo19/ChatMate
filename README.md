@@ -22,3 +22,15 @@ ChatMate is a real-time chat application built with HTML, CSS, JavaScript, Node.
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ChatMate.git
+
+## 🚀 About Me
+👋 Hi there! I'm Sinchana Chatterjee, an enthusiastic and determined B.Tech student with a fervent aspiration to excel as a Web Developer.
+
+## Authors
+[@siniekoo19](https://github.com/siniekoo19)
+
+## Acknowledgments
+- Thanks to the open-source community for their invaluable contributions to the tools and frameworks used in this project.
+
+## Feedback
+If you have any feedback, please reach out to me at csinchana19@gmail.com
