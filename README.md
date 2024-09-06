@@ -20,13 +20,12 @@ ChatMate is a real-time chat application built with HTML, CSS, JavaScript, Node.
 ## Running the Project Locally
 
 1. Clone the repository:
-   https://github.com/siniekoo19/ChatMate
+   ```https://github.com/siniekoo19/ChatMate```
 
 2. Navigate to the directory where you cloned the project using the command prompt.
 
 3. Run the HTML file `index.html` & run the `index.js` using:
-   ```bash
-   nodemon index.js
+   ```nodemon index.js```
 Now, using your browser, experience ChatMate! 😊
 
 
